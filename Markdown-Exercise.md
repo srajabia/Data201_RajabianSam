@@ -12,7 +12,7 @@ Date: 2/19/2026
 ## 3. Emphasis
 **Bold Text** <br>
 *Italic text* 
----
+<hr>
 
 ## 4. Lists
 **Unordered list:**
